@@ -11,6 +11,6 @@ The backend will be created at mongo db atlas .......... i used Postman to test 
 Use credentials:-
 
 email :-  kk9450112917@gmail.com
-PassL :-  123456Seven
+Password :-  123456Seven
 
 Database Name :- node-shop
