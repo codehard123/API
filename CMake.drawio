@@ -10,8 +10,8 @@
         <mxCell id="-jH9cvor_tWSEYjWnEKw-2" value="cmake --workflow&amp;lt;preset&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-jH9cvor_tWSEYjWnEKw-3" value="Validate JSON with the help of jq package" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="-jH9cvor_tWSEYjWnEKw-3" value="Validate JSON with the help of jq package&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cat preset.json | jq&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
